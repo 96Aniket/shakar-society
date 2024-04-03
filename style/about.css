@@ -53,6 +53,18 @@ padding: 20px;
     border-radius: 20px;
     border: 2px solid gray;
 }
+.star{
+    height: 200px;
+    width: 300px;
+    border: 2px solid black;
+    border-radius: 10px;
+    transition: 2s;
+    margin: 30px;
+}
+.star:hover{
+    transform: scale(1.1);
+}
+
 .xy{
     width: 1290px;
     
