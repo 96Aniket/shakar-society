@@ -44,7 +44,7 @@ span{
 .width{
     width: 300px;
     height: 70px;
-    border-radius: 20px;
+    border-radius: 10px;
 }
 .sub{
     background-color: green;
