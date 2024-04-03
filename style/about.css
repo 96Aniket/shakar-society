@@ -3,11 +3,7 @@
     margin: 5px;
 }
 
-.imp{
-    background-color: #f7bdba;
-background-image: linear-gradient(19deg, #f7bdba 0%, #c8b8ed 100%);
 
-}
 .ov{
     font-size: 30pt;
     margin: 10px;
@@ -46,7 +42,7 @@ padding: 20px;
 }
 .im{
     height: 200px;
-    /* width: 300px; */
+    
 }
 .mimag{
     height: 300px;
@@ -66,7 +62,7 @@ padding: 20px;
 }
 
 .xy{
-    width: 1290px;
+    width:100%;
     
 }
 .fot{
